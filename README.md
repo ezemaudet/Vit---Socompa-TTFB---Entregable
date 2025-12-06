@@ -131,6 +131,8 @@ en un entorno tipo Jupyter/Colab siguiendo el orden de las celdas trasladadas al
 ├── requirements.txt
 └── README.md
 
+'''
+
 ## 4. Requisitos
 4.1. Dependencias principales
 Archivo sugerido requirements.txt:
@@ -236,3 +238,5 @@ Monitoreo de lagunas y embalses en zonas áridas o de montaña.
 Gestión hídrica agrícola: planificación de riego según disponibilidad de agua superficial.
 Alertas tempranas por descenso de niveles de agua.
 Soporte a políticas ambientales, permitiendo seguimiento histórico de cuerpos de agua.
+
+
