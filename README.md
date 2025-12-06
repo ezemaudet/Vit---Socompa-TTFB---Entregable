@@ -131,7 +131,7 @@ en un entorno tipo Jupyter/Colab siguiendo el orden de las celdas trasladadas al
 ├── requirements.txt
 └── README.md
 
-'''
+```
 
 ## 4. Requisitos
 4.1. Dependencias principales
